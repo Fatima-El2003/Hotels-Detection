@@ -1,0 +1,17 @@
+[{
+        "name": "Hotel A",
+        "location": "Al Hoceima",
+        "latitude": 35.2433,
+        "longitude": -3.9368,
+        "description": "Description of Hotel A",
+        "rating": 4.5
+    },
+    {
+        "name": "Hotel B",
+        "location": "Rabat",
+        "latitude": 34.020882,
+        "longitude": -6.84165,
+        "description": "Description of Hotel B",
+        "rating": 4.0
+    }
+]
