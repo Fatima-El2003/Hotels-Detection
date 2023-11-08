@@ -31,7 +31,7 @@ fetch("./assets/location-data.json")
                 })
                 .bindPopup(
                     `<h3> ${data[i].title} </h3>  
-<p> ${data[i].description} </p> 
+                    <p> ${data[i].description} </p> 
 `
                 )
                 .on("click", () => {
